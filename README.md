@@ -1,4 +1,4 @@
-### Ola sou Carlos Eduardo 
+### Olá, sou Carlos Eduardo 
 
 - 📓 Estudante de ciências da computação da Cesar School
 - 😄 Pronomes: Ele/Dele
