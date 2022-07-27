@@ -1,8 +1,8 @@
 ### Ola sou Carlos Eduardo 
 
-- 📓 Atualmente apenas um estudante do ensino médio e planejo me formar em ciência da computação
+- 📓 Estudante de ciências da computação da Cesar School
 - 😄 Pronomes: Ele/Dele
-- 🎯 Estudando: JS, HTML e CSS
+- 🎯 Estudando: JS, HTML e Python
 
 <div align="left">
   <a href="https://github.com/Carlos3du">
