@@ -1,9 +1,14 @@
-### Olá, sou Carlos Eduardo 
+### Console.log('Hello World!')
 
-- 📓 Estudante de ciências da computação da Cesar School
-- 😄 Pronomes: Ele/Dele
-- 🎯 Estudando: JS, HTML e Python
+- 😄 Nome: Carlos Eduardo Cavalcanti
+- 📓 Estudante de Ciências da Computação da Cesar School 
+- 📈 Progresso: Primeiro Período
+- 🎯 Atual foco: Backend e futuramente quem sabe DataScience
+- 📋 Meu github atualmente esta sendo utilizado pra estudos/pesquisas de códigos em diferentes linguagens<br>
+         e pequenos projetos pessoais, com o objetivo de treinar e aprofundar meus conhecimentos em CC.
 
+
+<br>
 <div align="left">
   <a href="https://github.com/Carlos3du">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Carlos3du&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
