@@ -1,11 +1,12 @@
-### Console.log('Hello World!')
+## Hello world, I'm Carlos Eduardo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
-- 😄 Nome: Carlos Eduardo Cavalcanti
-- 📓 Estudante de Ciências da Computação da Cesar School 
-- 📈 Progresso: Primeiro Período
-- 🎯 Atual foco: Backend e futuramente quem sabe DataScience
-- 📋 Meu github atualmente esta sendo utilizado pra estudos/pesquisas de códigos em diferentes linguagens<br>
-         e pequenos projetos pessoais, com o objetivo de treinar e aprofundar meus conhecimentos em CC.
+
+- 😄 Name: Carlos Eduardo Cavalcanti
+- 📓 Studing: Computer Science at Cesar School 
+- 📈 Progress: First Period
+- 🎯 Focusing: Backend, Datascience and learning C_ languages
+- 📋 My github is being used for code,studing and research in different computer languages<br>
+         besides used to develop personal projects, to train and go deeper with my knowledge in CS.
 
 
 <br>
@@ -18,16 +19,19 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Python" heighy = "30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
-</div>
+  <img align="center" alt="Rafa-Python" heighy = "30" width="40"                           src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-CSS" heighy = "30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></div>
   
 </div>
 
-##
+## Contact
+<a href="https://instagram.com/carlosedu500" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-carlosedu500-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://linkedin.com/in/carlos-cavalcanti-42b89524b" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-carloscavalcanti-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
  
-<div> 
-  <a href = "mailto:carlos.mec2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-
-</div>
 
