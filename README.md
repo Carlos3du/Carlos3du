@@ -13,7 +13,6 @@
 <div align="left">
   <a href="https://github.com/Carlos3du">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Carlos3du&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-<img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif">
 </div>
 
 <div style="display: inline_block"><br>
