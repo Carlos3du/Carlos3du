@@ -3,7 +3,7 @@
 
 - 😄 Name: Carlos Eduardo Cavalcanti
 - 📓 Studing: Computer Science at Cesar School 
-- 📈 Progress: First Period
+- 📈 Progress: Second Period
 - 🎯 Focusing: Backend, Datascience and learning C_ languages
 - 📋 My github is being used for code,studing and research in different computer languages<br>
          besides used to develop personal projects, to train and go deeper with my knowledge in CS.
