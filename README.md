@@ -4,14 +4,15 @@
 - 😄 Name: Carlos Eduardo Cavalcanti
 - 📓 Studing: Computer Science at Cesar School 
 - 🎯 Focusing: Frontend, Software engineering
-- 📋 My github is being used for code,studing and research in different computer languages<br>
-         besides used to develop personal projects, to train and go deeper with my knowledge in CS.
+- 📋 My github is being used for code,studing and research in different computer<br>
+          languages, used to develop personal projects and go deeper with my knowledge in CS.
 
 
 <br>
 <div align="left">
   <a href="https://github.com/Carlos3du">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Carlos3du&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos3du&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
 
 <div style="display: inline_block"><br>
