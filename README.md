@@ -1,4 +1,4 @@
-## Hello world, I'm Carlos Eduardo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+## Hello world, I'm Carlos Eduardo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="35" height="35" />
 
 
 - 😄 Name: Carlos Eduardo Cavalcanti
@@ -11,8 +11,8 @@
 <br>
 <div align="left">
   <a href="https://github.com/Carlos3du">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Carlos3du&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos3du&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos3du&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos3du&layout=donut&langs_count=7&theme=react"/>
 </div>
 
 <div style="display: inline_block"><br>
