@@ -5,7 +5,7 @@
 - 📓 Studing: Computer Science at Cesar School 
 - 🎯 Focusing: Nothing at the moment
 - 📋 My github is being used for code,studing and research in different computer<br>
-          languages, used to develop personal projects and go deeper with my knowledge in CS.
+          languages, also develop personal projects and go deeper with my knowledge in CS.
 
 
 <br>
