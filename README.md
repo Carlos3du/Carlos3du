@@ -54,13 +54,13 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=95 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasGdBS&repo=PuppyCore&description_lines_count=1&theme=github_dark" />
-</a>
+</a><br><br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=95 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeHive-CESAR&repo=frontAdmRentUp&description_lines_count=1&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=95 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasGdBS&repo=POO-Project&description_lines_count=1&theme=github_dark" />
-</a>
+</a><br><br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=95 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeHive-CESAR&repo=RentUP&description_lines_count=1&theme=github_dark" />
 </a>
