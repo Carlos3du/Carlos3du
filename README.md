@@ -3,7 +3,7 @@
 
 - 😄 Name: Carlos Eduardo Cavalcanti
 - 📓 Studing: Computer Science at Cesar School 
-- 🎯 Focusing: Nothing at the moment
+- 🎯 Focusing: Cyber Sec and Software Dev
 - 📋 My github is being used for code,studing and research in different computer<br>
           languages, also develop personal projects and go deeper with my knowledge in CS.
 
