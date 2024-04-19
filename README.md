@@ -1,8 +1,9 @@
 ## Hello world, I'm Carlos3du  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
 
  <a href="https://www.linkedin.com/in/carlos-cavalcanti-42b89524b/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:cepc@cesar.school"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:cepc@cesar.school)
 <a href="https://instagram.com/carlosedu500"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://drive.google.com/drive/folders/1GKKamdpx9zmKCTgcxsiCVbjTIqCgaRAo?usp=sharing)
 <br><br>
 
 
