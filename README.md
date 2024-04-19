@@ -8,7 +8,7 @@
 
 
 ## About Me  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="35" height="35" />
-[![Skills](https://skillicons.dev/icons?i=js,html,css,py,pycharm,postgres,nodejs,java,git,figma,django,docker,arduino,c,bootstrap)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,py,postgres,nodejs,java,git,figma,django,docker,arduino,c,bootstrap,vscode)](https://skillicons.dev)
 
 
  ```python
