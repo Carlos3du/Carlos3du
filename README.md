@@ -18,7 +18,6 @@
 				'Cyber Sec',
 				'Software Dev',
 				'API Dev',
-				'FrontEnd'
 	                    ]
 	
 
