@@ -53,8 +53,8 @@
 
 
 	def myGithub():
-          return "My github is being used for code,studing and research in different computer\
-          languages, also develop personal projects and go deeper with my knowledge in CS."
+          return "My github is being used for code, studies and researches of different computer\
+          languages and frameworks. Also develop personal projects and go deeper with my knowledge in CS."
 
  ```
             
