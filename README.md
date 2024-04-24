@@ -3,7 +3,7 @@
  <a href="https://www.linkedin.com/in/carlos-cavalcanti-42b89524b/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:cepc@cesar.school)
 <a href="https://instagram.com/carlosedu500"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://drive.google.com/drive/folders/1GKKamdpx9zmKCTgcxsiCVbjTIqCgaRAo?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1GKKamdpx9zmKCTgcxsiCVbjTIqCgaRAo?usp=sharing)
 <br><br>
 
 
