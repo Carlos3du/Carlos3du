@@ -38,11 +38,7 @@
  class WhoAmI:
  	user = 'Carlos Eduardo'
 		current_work = 'Computer Science Student at Cesar School'
-		focusing_on =  [
-				'Cyber Sec',
-				'Software Dev',
-				'API Dev',
-	                    ]
+	
 	
 
     def getCity():
