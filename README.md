@@ -1,10 +1,9 @@
 # Hello world, I'm Carlos3du  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
+<a href="https://drive.google.com/file/d/13AF8TqKXaY56SxhKtuf--d4uSldR8NM4/view?usp=sharing">👉 My Resume</a>
 
  <a href="https://www.linkedin.com/in/carlos-cavalcanti-42b89524b/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:cepc@cesar.school)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlos.mec2005@gmail.com)
 <a href="https://instagram.com/carlosedu500"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-[![Portfolio](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1GKKamdpx9zmKCTgcxsiCVbjTIqCgaRAo?usp=sharing)
-<br><br>
 
 
 ## About Me  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="35" height="35" />
