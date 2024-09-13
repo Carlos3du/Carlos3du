@@ -1,7 +1,9 @@
 # Hello world, I'm Carlos3du  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
-<a href="https://drive.google.com/file/d/13AF8TqKXaY56SxhKtuf--d4uSldR8NM4/view?usp=sharing">👉 My Resume</a>
+<a href="https://docs.google.com/document/d/1uscgWuBJ7BLXjW2mr77dQLpk2jxyy_IQXud3VCTppnk/edit?usp=sharing">👉 My Resume</a><br>
+<a href="https://www.kaggle.com/carlos3du">👉 My Kaggle Portfoil</a>
 
  <a href="https://www.linkedin.com/in/carlos-cavalcanti-42b89524b/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://www.kaggle.com/carlos3du"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlos.mec2005@gmail.com)
 <a href="https://instagram.com/carlosedu500"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
