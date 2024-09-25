@@ -38,12 +38,16 @@
  ```python
  class WhoAmI:
  	user = 'Carlos Eduardo'
-		current_work = 'Computer Science Student at Cesar School'
-	
-	
+		current_position = 'Computer Science Student at Cesar School'
+		
 
+    def aboutMe():
+		return 'Currently, I am in the 5th semester of Computer Science at CESAR School \
+			and I am seeking professionalization in the area of data engineering, data analyses \
+			and visualization, data banks and artificial intelligence!'
+	
     def getCity():
-          return Recife_Pernambuco()
+          return 'Recife_Pernambuco'
 
 
 	def myGithub():
