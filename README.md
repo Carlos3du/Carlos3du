@@ -79,15 +79,15 @@
 <a href="https://github.com/LucasGdBS/PuppyCore">
   <img height=108 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasGdBS&repo=PuppyCore&description_lines_count=1&theme=github_dark" />
 </a><br><br>
-<a href="https://github.com/BeHive-CESAR/frontAdmRentUp">
+<!-- <a href="https://github.com/BeHive-CESAR/frontAdmRentUp">
   <img height=108 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeHive-CESAR&repo=frontAdmRentUp&description_lines_count=1&theme=github_dark" />
-</a>
+</a> -->
 <a href="https://github.com/LucasGdBS/POO-Project">
   <img height=108  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasGdBS&repo=POO-Project&description_lines_count=1&theme=github_dark" />
-</a><br><br>
-<a href="https://github.com/BeHive-CESAR/RentUP">
-  <img height=108 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeHive-CESAR&repo=RentUP&description_lines_count=1&theme=github_dark" />
 </a>
+<!-- <a href="https://github.com/BeHive-CESAR/RentUP">
+  <img height=108 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeHive-CESAR&repo=RentUP&description_lines_count=1&theme=github_dark" />
+</a> -->
 <a href="https://github.com/LucasGdBS/Full_LCD_emulator">
   <img height=108 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasGdBS&repo=Full_LCD_emulator&description_lines_count=1&theme=github_dark" />
 </a>
