@@ -11,7 +11,7 @@
 ## About Me  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="35" height="35" />
 
 	
-[![Skills](https://skillicons.dev/icons?i=figma,docker,arduino,bootstrap,vscode,postgres,github,mysql,eclipse,pycharm,notion)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=figma,docker,arduino,bootstrap,vscode,postgres,github,mysql,eclipse,pycharm,notion,azure)](https://skillicons.dev)
 
 <div align=left>
 	
@@ -31,18 +31,18 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
+![BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 </div>
 
  ```python
  class WhoAmI:
  	user = 'Carlos Eduardo'
-		current_position = 'Computer Science Student at Cesar School'
+		education_position = 'Computer Science Student' && 'BI Intern'
 		
 
     def aboutMe():
-		return 'Currently, I am in the 5th semester of Computer Science at CESAR School \
+		return 'Currently, I am in the 6th semester of Computer Science at CESAR School \
 			and I am seeking professionalization in the area of data engineering, data analyses \
 			and visualization, data banks and artificial intelligence!'
 	
@@ -76,18 +76,18 @@
 <a href="https://github.com/Evalu-at/evaluat-backend">
   <img height=108 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evalu-at&repo=evaluat-backend&description_lines_count=1&theme=github_dark"/>
 </a>
-<a href="https://github.com/LucasGdBS/PuppyCore">
-  <img height=108 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasGdBS&repo=PuppyCore&description_lines_count=1&theme=github_dark" />
+<a href="https://github.com/Chroma-CESAR/Dasher">
+  <img height=108 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chroma-CESAR&repo=Dasher&description_lines_count=1&theme=github_dark" />
 </a><br><br>
-<!-- <a href="https://github.com/BeHive-CESAR/frontAdmRentUp">
-  <img height=108 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeHive-CESAR&repo=frontAdmRentUp&description_lines_count=1&theme=github_dark" />
-</a> -->
+<a href="https://github.com/Gabriel-Chaves0/Projeto-Requisitos">
+  <img height=108 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Chaves0&repo=Projeto-Requisitos&description_lines_count=1&theme=github_dark" />
+</a>
 <a href="https://github.com/LucasGdBS/POO-Project">
   <img height=108  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasGdBS&repo=POO-Project&description_lines_count=1&theme=github_dark" />
+</a><br><br>
+<a href="https://github.com/Chroma-CESAR/Model_ExpensesClassification">
+  <img height=108 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chroma-CESAR&repo=Model_ExpensesClassification&description_lines_count=1&theme=github_dark" />
 </a>
-<!-- <a href="https://github.com/BeHive-CESAR/RentUP">
-  <img height=108 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeHive-CESAR&repo=RentUP&description_lines_count=1&theme=github_dark" />
-</a> -->
-<a href="https://github.com/LucasGdBS/Full_LCD_emulator">
-  <img height=108 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasGdBS&repo=Full_LCD_emulator&description_lines_count=1&theme=github_dark" />
+<a href="https://github.com/Chroma-CESAR/RentUP">
+  <img height=108 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chroma-CESAR&repo=RentUP&description_lines_count=1&theme=github_dark" />
 </a>
