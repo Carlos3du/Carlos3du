@@ -1,4 +1,4 @@
-# Hello world, I'm Carlos3du  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
+# Hello world, I'm Carlos3du 
 <a href="https://docs.google.com/document/d/1uscgWuBJ7BLXjW2mr77dQLpk2jxyy_IQXud3VCTppnk/edit?usp=sharing">👉 My Resume</a><br>
 <a href="https://www.kaggle.com/carlos3du">👉 My Kaggle Portfoil</a>
 
