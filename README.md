@@ -38,7 +38,7 @@
  ```python
  class WhoAmI:
  	user = 'Carlos Eduardo'
-		education_position = 'Computer Science Student' && 'BI Intern'
+		education_position = 'Computer Science Student'
 		
 
     def aboutMe():
