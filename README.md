@@ -1,4 +1,4 @@
-# Hello world, I'm Carlos Cavalcanti   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="40" height="40" />
+# Hello world, I'm Carlos Cavalcanti  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
 <a href="https://docs.google.com/document/d/1uscgWuBJ7BLXjW2mr77dQLpk2jxyy_IQXud3VCTppnk/edit?usp=sharing"><img src="https://img.shields.io/badge/My%20Resume-8A2BE2"/></a>
 <a href="https://www.kaggle.com/carlos3du"><img src="https://img.shields.io/badge/Kaggle-00b4d8"/></a>
