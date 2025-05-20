@@ -10,7 +10,7 @@
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Carlos3du&theme=github_dark&rank_icon=github&hide=stars" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos3du&layout=compact&theme=github_dark"/>
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos3du&layout=compact&theme=github_dark&hide_progress=true"/>
 </a><br><br>
 
 <br>
@@ -26,7 +26,8 @@ class AboutMe:
     	self.interests = ['data engineering', 'data analyses and visualization', 'DB', 'ML / AI']
 		self.learning = 'Everything i can 😁'
  ```
-	
+
+ <br>
 
 <div align=left>
 
