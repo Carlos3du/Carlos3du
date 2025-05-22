@@ -6,6 +6,14 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:carlos.mec2005@gmail.com)
 
 
+## Recent Projects 📁
+<div align=left>
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chroma-CESAR&repo=indoorPlants&theme=github_dark)](https://github.com/Chroma-CESAR/indoorPlants)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chroma-CESAR&repo=Model_ExpensesClassification&theme=github_dark)](https://github.com/Chroma-CESAR/Model_ExpensesClassifications)
+
+</div>
+
 ## About Me 📄
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -41,14 +49,6 @@ class AboutMe:
 
 
 
-## Recent Projects 📁
-<div align=left>
-	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chroma-CESAR&repo=indoorPlants&theme=github_dark)](https://github.com/Chroma-CESAR/indoorPlants)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chroma-CESAR&repo=Model_ExpensesClassification&theme=github_dark)](https://github.com/Chroma-CESAR/Model_ExpensesClassifications)
-
- 
-</div>
 
 
             
