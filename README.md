@@ -1,7 +1,7 @@
 # Hello world, I'm Carlos Cavalcanti  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
-<a href="https://docs.google.com/document/d/1uscgWuBJ7BLXjW2mr77dQLpk2jxyy_IQXud3VCTppnk/edit?usp=sharing"><img src="https://img.shields.io/badge/My%20Resume-8A2BE2"/></a>
-<a href="https://www.kaggle.com/carlos3du"><img src="https://img.shields.io/badge/Kaggle-00b4d8"/></a>
+<a href="https://caducavalcanti.framer.website"><img src="https://img.shields.io/badge/My Portifoil-8A2BE2"/></a>
+<a href="https://docs.google.com/document/d/1uscgWuBJ7BLXjW2mr77dQLpk2jxyy_IQXud3VCTppnk/edit?usp=sharing"><img src="https://img.shields.io/badge/My%20Resume-00b4d8"/></a>
 <a href="https://www.linkedin.com/in/carlos-cavalcanti-42b89524b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:carlos.mec2005@gmail.com)
 
