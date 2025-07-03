@@ -9,7 +9,7 @@
 ## Recent Projects 📁
 <div align=left>
 	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chroma-CESAR&repo=indoorPlants&theme=github_dark)](https://github.com/Chroma-CESAR/indoorPlants)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chroma-CESAR&repo=Rooted&theme=github_dark)](https://github.com/Chroma-CESAR/Rooted)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chroma-CESAR&repo=Model_ExpensesClassification&theme=github_dark)](https://github.com/Chroma-CESAR/Model_ExpensesClassifications)
 
 </div>
