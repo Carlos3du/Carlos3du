@@ -10,7 +10,7 @@
 <div align=left>
 	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chroma-CESAR&repo=Rooted&theme=github_dark)](https://github.com/Chroma-CESAR/Rooted)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chroma-CESAR&repo=Dasher_Model&theme=github_dark)](https://github.com/Chroma-CESAR/Dasher_Model)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlos3du&repo=PrognosisIschemicCardiovascular&theme=github_dark)](https://github.com/Carlos3du/PrognosisIschemicCardiovascular)
 
 </div>
 
