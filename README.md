@@ -33,7 +33,8 @@ class AboutMe:
 	def __init__(self):
 		self.user = 'Carlos Cavalcanti'
 		self.education_position = 'Computer Science Student at CESAR School'
-		self.education_level = '6th'
+		self.professional_position = 'LabMaker and Dev Intern at CESAR'
+		self.education_level = '8th'
     	self.interests = ['data engineering', 'data analyses and visualization', 'DB', 'ML / AI']
 		self.learning = 'Everything i can 😁'
  ```
