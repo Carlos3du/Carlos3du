@@ -1,6 +1,6 @@
 <h1 align="center">
-Hey there!<br>
-I'm Cadu Cavalcanti 
+Hey there! ✌️<br>
+I'm Cadu Cavalcanti 🙂
 </h1>
 
 
@@ -12,7 +12,7 @@ I'm Cadu Cavalcanti
 	
 </div>
 
-### About me 
+### About Me 
 - 💻 LabMaker and Dev Intern at CESAR
 - 🎓 Graduating in Computer Science
 - 📊 Seeking professionalization in data science or data engineering
