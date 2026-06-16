@@ -1,7 +1,7 @@
-<h2 align="center">
+<h1 align="center">
 Hey there!<br>
 I'm Cadu Cavalcanti 
-</h2>
+</h1>
 
 
 <div align="center">
