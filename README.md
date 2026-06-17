@@ -13,9 +13,9 @@ I'm Cadu Cavalcanti 🙂
 </div>
 
 ### About Me 
-- 💻 LabMaker and Dev Intern at CESAR
+- 💼 LabMaker and Dev Intern at CESAR
 - 🎓 Graduating in Computer Science
-- 📊 Seeking professionalization in data science or data engineering
+- 👀 Seeking professionalization in data science or data engineering
 - 💡 Fun fact: I love solving problems and learn new things
 
 ### Tools 
