@@ -36,12 +36,16 @@ I'm Cadu Cavalcanti 🙂
 
 
 ### Github Stats
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Carlos3du&theme=github_dark&rank_icon=github&hide=stars" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos3du&layout=compact&theme=github_dark&hide_progress=false"/>
-</a><br><br>
+</a>
+
+<br><br>
 
 
 
